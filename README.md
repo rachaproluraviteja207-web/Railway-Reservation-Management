@@ -70,3 +70,40 @@ Railway-Reservation-and-Passenger-Management-System
 ├── Output2.pdf
 └── README.md
 ```
+## 🖥️ Project Output
+
+The project execution output and screenshots are available below:
+
+📄 [View Project Output](./Output2.pdf)
+
+## ▶️ How to Run
+
+1. Clone or download this repository.
+2. Open the project in Eclipse IDE.
+3. Make sure Java/JDK is installed.
+4. Open the main class:
+   `RailwayRegistrationSystem.java`
+5. Run the application.
+6. Use the console menu to interact with the system.
+
+## 🎯 Learning Outcomes
+
+Through this project, I gained practical experience in:
+
+- Core Java programming
+- Object-Oriented Programming
+- Java Collections
+- File Handling
+- Console-based application development
+- Data management using text files
+- Building a modular Java application
+
+## 🔮 Future Enhancements
+
+- Database integration using MySQL/Oracle
+- GUI-based interface
+- Online payment integration
+- Email/SMS ticket notifications
+- Admin dashboard
+- REST API integration
+
